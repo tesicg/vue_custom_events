@@ -1,5 +1,4 @@
-The example that represents using the basic communication in Vue.js
-between parent and child.
+The example that represents the basic parent/child communication in Vue.js.
 
 1) Parent -> (props) -> Child
 2) Child -> (custom events) -> Parent
