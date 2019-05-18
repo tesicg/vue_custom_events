@@ -5,5 +5,5 @@ The example that represents the basic parent/child communication in Vue.js.
 
 Usage:
 
-npm install
+npm install<br>
 npm run serve
